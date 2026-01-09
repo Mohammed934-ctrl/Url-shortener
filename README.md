@@ -1,3 +1,38 @@
+
+🔗 URL Shortener
+
+A simple URL shortener built with Next.js App Router, Prisma, and PostgreSQL.
+It converts long URLs into short links and redirects users to the original URL while tracking visits.
+
+✨ Features
+
+🔗 Shorten long URLs
+
+🚀 Fast server-side redirect
+
+📊 Visit count tracking
+
+🧠 Dynamic routing using [shortcode]
+
+🗄️ Prisma ORM with PostgreSQL
+
+🛠️ Tech Stack
+
+Next.js (App Router)
+
+React
+
+Prisma
+
+PostgreSQL / Neon
+
+TypeScript
+
+
+   <img width="928" height="886" alt="image" src="https://github.com/user-attachments/assets/bad02f86-1a15-4cc2-bff7-9016f1db49ac" />
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
